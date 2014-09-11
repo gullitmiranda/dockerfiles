@@ -8,7 +8,7 @@
 #
 
 FROM ubuntu:14.04
-MAINTAINER Andrew Kozin <andrew.kozin@gmail.com>
+MAINTAINER Gullit Miranda <gullitmiranda@gmail.com>
 
 # ==============================================================================
 # Ubuntu Linux 14.04 with postgres client

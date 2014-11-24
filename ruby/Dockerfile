@@ -41,7 +41,8 @@ RUN apt-get update -qq && \
       postgresql-client-9.3 \
       software-properties-common \
       wget \
-      zlib1g-dev
+      zlib1g-dev \
+      imagemagick
 
 # ==============================================================================
 # Ruby with postgres support
